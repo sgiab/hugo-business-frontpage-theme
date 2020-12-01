@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "http://example.org/"
+baseURL = "http://sonakongroups.com/"
 languageCode = "en"
 title = "Business Frontpage - Start Bootstrap Template"
 theme = "hugo-business-frontpage-theme"
